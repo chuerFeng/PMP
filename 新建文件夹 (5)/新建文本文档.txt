@@ -1,0 +1,18 @@
+挣值（EV，Earned Value）实际工作产生的实际价值(现实产生的价值，可能比预算的多或少)
+进度偏差（SV，Schedule Variance） EV - PV (SV > 0 , 进度超前好, <0 进度落后坏)
+计划值(PV，Plan Value)  预算工作量预算单价产生的价值(总共有100%价值的任务)
+实际成本（AC，Actual Cost） 完成与EV对应的工作而产生的总成本，包含间接成本(预算应该要完成xx%价值)
+成本偏差（CV，Cost Variance）EV - AC
+成本执行指标（CPI，Cost Performance Index） EV / AC
+进度绩效指标（SPI，Schedule Performance Index） EV / PV
+
+完工预算(BAC， Budget At Completion，总预算)   
+完工估算(EAC，Estimate AT Completion) 
+EAC = AC + (BAC - EV)
+EAC = BAC / CPI = BAC / ( EV / AC )
+
+
+完工尚需估算(ETC，Estimate To Complete)
+
+
+
